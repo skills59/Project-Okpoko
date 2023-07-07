@@ -11,6 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+![image](https://github.com/skills59/Project-Okpoko/assets/56154525/2fe1356f-7810-4b5e-95ab-2923a8f45f24)
+
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
